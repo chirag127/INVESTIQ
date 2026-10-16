@@ -1,0 +1,49 @@
+{
+  "concepts": {
+    "c-wealth-distribution-india": {
+      "title": "Indian Wealth Distribution and Pyramid Tiers",
+      "ownerChapter": "ch-001",
+      "ownerSection": "section-01-distribution"
+    },
+    "c-compounding-mechanics": {
+      "title": "Compounding Mechanics, CAGR and XIRR",
+      "ownerChapter": "ch-002",
+      "ownerSection": "section-01-compounding"
+    },
+    "c-real-return-inflation": {
+      "title": "Real Return and Indian CPI Inflation Drag",
+      "ownerChapter": "ch-002",
+      "ownerSection": "section-02-inflation"
+    },
+    "c-income-ladder-india": {
+      "title": "The Indian Tech Income Ladder",
+      "ownerChapter": "ch-007",
+      "ownerSection": "section-01-ladder"
+    },
+    "c-ctc-dissection": {
+      "title": "CTC Dissection: Fixed, Variable, Retirals and ESOPs",
+      "ownerChapter": "ch-008",
+      "ownerSection": "section-01-ctc"
+    },
+    "c-new-tax-regime": {
+      "title": "New Tax Regime Architecture and Section 87A Rebate",
+      "ownerChapter": "ch-075",
+      "ownerSection": "section-01-new-regime"
+    },
+    "c-regime-breakeven": {
+      "title": "Tax Regime Breakeven Mathematical Proof",
+      "ownerChapter": "ch-077",
+      "ownerSection": "section-01-breakeven"
+    },
+    "c-coparcenary-rights": {
+      "title": "Mitakshara Coparcenary and Hindu Succession Act Rights",
+      "ownerChapter": "ch-100",
+      "ownerSection": "section-01-coparcenary"
+    },
+    "c-safe-withdrawal-rate-india": {
+      "title": "Safe Withdrawal Rate (SWR) under Indian Inflation Dynamics",
+      "ownerChapter": "ch-113",
+      "ownerSection": "section-01-swr"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "parts": [
+    {
+      "id": "part-01",
+      "slug": "part-01-physics-of-money",
+      "title": "PART I — The Physics of Money for Indians",
+      "chapters": [
+        { "id": "ch-001", "slug": "chapter-001-wealth-landscape", "title": "India's Wealth Landscape: Distribution, Mobility, and the Wealth Engine" },
+        { "id": "ch-002", "slug": "chapter-002-compounding-returns", "title": "Compounding, Inflation, Real Returns, and Indian Historical Data Series" },
+        { "id": "ch-003", "slug": "chapter-003-behavioural-finance", "title": "Behavioural Finance and the Psychology of Indian Family Money" },
+        { "id": "ch-004", "slug": "chapter-004-cash-flow-engineering", "title": "Cash-Flow Engineering on a Moderate Income: The Triple-Tier Buffer" },
+        { "id": "ch-005", "slug": "chapter-005-debt-triage", "title": "Debt Triage: Avalanche, Snowball, Recovery Rights, and Credit Repair" },
+        { "id": "ch-006", "slug": "chapter-006-first-lump-sum", "title": "The First-Lump-Sum Decision: Allocation Framework and Stress Testing" }
+      ]
+    },
+    {
+      "id": "part-02",
+      "slug": "part-02-earning-more",
+      "title": "PART II — Earning More: The Highest-Return Asset Is You",
+      "chapters": [
+        { "id": "ch-007", "slug": "chapter-007-income-ladder", "title": "The Income Ladder: Realistic Velocity from ₹25,000 to ₹10 Lakh per Month" },
+        { "id": "ch-008", "slug": "chapter-008-engineering-careers", "title": "Software Engineering Careers in India: Services, GCCs, Products, and CTC Dissection" },
+        { "id": "ch-009", "slug": "chapter-009-job-switching-mechanics", "title": "Switching Jobs: Interview Strategy, Counter-Offers, and Negotiation Math" },
+        { "id": "ch-010", "slug": "chapter-010-freelancing-global-income", "title": "Freelancing, Contracting, and Lawful Foreign Inward Remittance" },
+        { "id": "ch-011", "slug": "chapter-011-digital-products-saas", "title": "Building Products: Software Micro-SaaS and Unit Economics" },
+        { "id": "ch-012", "slug": "chapter-012-business-incorporation", "title": "Starting a Business in India: Structures, Compliance, and Direct Tax Framework" }
+      ]
+    },
+    {
+      "id": "part-03",
+      "slug": "part-03-banking-cash",
+      "title": "PART III — Banking, Cash, Payments, and Credit Systems",
+      "chapters": [
+        { "id": "ch-018", "slug": "chapter-018-banking-architecture", "title": "Banking Architecture: Scheduled Commercial vs Small Finance Banks & DICGC Limits" },
+        { "id": "ch-019", "slug": "chapter-019-fixed-deposits-tds", "title": "Fixed Deposits, Recurring Deposits, Corporate FDs, and TDS Mechanics" },
+        { "id": "ch-020", "slug": "chapter-020-cash-management", "title": "Liquid, Overnight, and Arbitrage Funds: Optimizing Operating Cash" },
+        { "id": "ch-021", "slug": "chapter-021-payments-credit-cards", "title": "UPI, Credit Cards, Reward Optimization, and Debt Traps" },
+        { "id": "ch-022", "slug": "chapter-022-credit-score-repair", "title": "Credit Scores: Bureau Algorithms, Dispute Resolution, and RBI Ombudsman" }
+      ]
+    },
+    {
+      "id": "part-04",
+      "slug": "part-04-fixed-income",
+      "title": "PART IV — Government Schemes and Sovereign Fixed Income",
+      "chapters": [
+        { "id": "ch-023", "slug": "chapter-023-epf-vpf-uan", "title": "EPF and VPF: Mechanics, Statutory Thresholds, Interest Taxation, and UAN Portability" },
+        { "id": "ch-024", "slug": "chapter-024-small-savings-suite", "title": "PPF, Sukanya Samriddhi, Senior Citizens Scheme, and Post Office Instruments" },
+        { "id": "ch-025", "slug": "chapter-025-nps-pension-system", "title": "National Pension System (NPS) and Unified Pension Scheme: Tax vs Annuity Drag" },
+        { "id": "ch-026", "slug": "chapter-026-g-secs-retail-direct", "title": "Government Securities, T-Bills, SDLs, and RBI Retail Direct" },
+        { "id": "ch-027", "slug": "chapter-027-corporate-bonds", "title": "Corporate Bonds, NCDs, Credit Ratings, and Default Case Studies" }
+      ]
+    },
+    {
+      "id": "part-05",
+      "slug": "part-05-mutual-funds-etfs",
+      "title": "PART V — Mutual Funds, ETFs, and Managed Portfolios",
+      "chapters": [
+        { "id": "ch-030", "slug": "chapter-030-mutual-fund-anatomy", "title": "Anatomy of Indian Mutual Funds: Regulations, Direct vs Regular, and TER Drag" },
+        { "id": "ch-031", "slug": "chapter-031-index-funds-etfs", "title": "Index Funds and ETFs: Tracking Error, Impact Cost, and Factor Indices" },
+        { "id": "ch-032", "slug": "chapter-032-active-equity-selection", "title": "Active Equity Funds: SPIVA Evidence, Manager Persistence, and Style Drift" },
+        { "id": "ch-034", "slug": "chapter-034-sip-swp-engineering", "title": "SIP, STP, and SWP Engineering: Step-Up Models vs Lump-Sum Data" }
+      ]
+    },
+    {
+      "id": "part-06",
+      "slug": "part-06-direct-equity",
+      "title": "PART VI — Direct Equity & Business Analysis",
+      "chapters": [
+        { "id": "ch-038", "slug": "chapter-038-market-infrastructure", "title": "Indian Market Infrastructure: Exchanges, Clearing Houses, Depositories, and Brokers" },
+        { "id": "ch-040", "slug": "chapter-040-forensic-accounting", "title": "Reading Indian Financial Statements: Ind AS, Forensic Red Flags, and Auditor Resignations" },
+        { "id": "ch-041", "slug": "chapter-041-valuation-models", "title": "Equity Valuation: DCF, Multiples, and Sector-Specific Frameworks" }
+      ]
+    },
+    {
+      "id": "part-12",
+      "slug": "part-12-taxation",
+      "title": "PART XII — Indian Taxation: Architecture, Optimization & Compliance",
+      "chapters": [
+        { "id": "ch-075", "slug": "chapter-075-tax-architecture", "title": "The Architecture of Indian Direct Taxation: Heads of Income, Slabs, and Surcharge" },
+        { "id": "ch-076", "slug": "chapter-076-salary-taxation", "title": "Salary Taxation: Components, HRA, Perquisites, Notice Pay, and Form 16" },
+        { "id": "ch-077", "slug": "chapter-077-regime-decision", "title": "New vs Old Tax Regime: Complete Decision Mathematics and Breakeven Formulas" },
+        { "id": "ch-078", "slug": "chapter-078-capital-gains-master", "title": "Capital Gains Master Framework: Rates, Holding Periods, and Loss Set-Off Rules" },
+        { "id": "ch-081", "slug": "chapter-081-gifts-clubbing", "title": "Gifts, Relative Exemptions, Clubbing Provisions, and Interest-Free Loans" }
+      ]
+    },
+    {
+      "id": "part-14",
+      "slug": "part-14-family-wealth-inheritance",
+      "title": "PART XIV — Family Wealth, Inheritance, and Legal Estate Planning",
+      "chapters": [
+        { "id": "ch-100", "slug": "chapter-100-succession-laws", "title": "Indian Succession Systems: Hindu Succession Act, Coparcenary, and Personal Laws" },
+        { "id": "ch-101", "slug": "chapter-101-ancestral-vs-self-acquired", "title": "Ancestral Property vs Self-Acquired Property: Legal Rights, Partition, and Case Law" },
+        { "id": "ch-102", "slug": "chapter-102-family-settlements", "title": "Non-Litigation Wealth Transfer: Family Settlement Deeds, Gift Deeds, and Mediation" },
+        { "id": "ch-103", "slug": "chapter-103-wills-probate", "title": "Wills, Codicils, Probate, Succession Certificates, and Nominee Legal Realities" }
+      ]
+    },
+    {
+      "id": "part-16",
+      "slug": "part-16-retirement-decumulation",
+      "title": "PART XVI — Retirement, Financial Independence (FIRE), and Decumulation",
+      "chapters": [
+        { "id": "ch-113", "slug": "chapter-113-fire-mathematics", "title": "Retirement Mathematics: Indian Safe Withdrawal Rates, Inflation, and Sequence Risk" },
+        { "id": "ch-115", "slug": "chapter-115-decumulation-engineering", "title": "Decumulation Engineering: Tax-Aware Withdrawal Ordering and Bucket Strategies" }
+      ]
+    }
+  ]
+}
