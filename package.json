@@ -5,11 +5,12 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "node scripts/compile-master-book.js && astro build",
     "preview": "astro preview",
     "test": "vitest run",
     "test:watch": "vitest",
     "privacy-scan": "node scripts/privacy-scanner.js",
+    "compile-book": "node scripts/compile-master-book.js",
     "build-epub": "node scripts/generate-epub.js"
   },
   "dependencies": {
