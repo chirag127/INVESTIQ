@@ -1,0 +1,50 @@
+[
+  {
+    "id": "T001",
+    "phase": "A",
+    "title": "Environment, Git, GitHub Auth & Pipeline Inspection",
+    "status": "completed",
+    "assignedTo": "orchestrator",
+    "updatedAt": "2026-10-17T00:50:00Z"
+  },
+  {
+    "id": "T002",
+    "phase": "A",
+    "title": "Build Registry Schemas & Fact Databases (Tax FY 2026-27, Sources, Outline)",
+    "status": "in_progress",
+    "assignedTo": "research_specialist",
+    "updatedAt": "2026-10-17T00:50:00Z"
+  },
+  {
+    "id": "T003",
+    "phase": "B",
+    "title": "Astro Static Site & Reader Engine Setup",
+    "status": "pending",
+    "assignedTo": "frontend_specialist",
+    "updatedAt": "2026-10-17T00:50:00Z"
+  },
+  {
+    "id": "T004",
+    "phase": "B",
+    "title": "EPUB 3.3 & Narration TTS Pipeline Generator",
+    "status": "pending",
+    "assignedTo": "epub_tts_specialist",
+    "updatedAt": "2026-10-17T00:50:00Z"
+  },
+  {
+    "id": "T005",
+    "phase": "C",
+    "title": "Financial Calculator Suite with Unit Tests",
+    "status": "pending",
+    "assignedTo": "calculator_specialist",
+    "updatedAt": "2026-10-17T00:50:00Z"
+  },
+  {
+    "id": "T006",
+    "phase": "D",
+    "title": "GitHub Actions CI/CD with Automated Pages Deployment & Privacy Scanner",
+    "status": "pending",
+    "assignedTo": "devops_specialist",
+    "updatedAt": "2026-10-17T00:50:00Z"
+  }
+]

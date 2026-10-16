@@ -1,0 +1,55 @@
+{
+  "tax_regime_new_fy2627": {
+    "effectiveFrom": "2026-04-01",
+    "verifiedOn": "2026-10-17",
+    "sourceId": "S001",
+    "status": "verified",
+    "slabs": [
+      { "min": 0, "max": 400000, "rate": 0 },
+      { "min": 400001, "max": 800000, "rate": 0.05 },
+      { "min": 800001, "max": 1200000, "rate": 0.10 },
+      { "min": 1200001, "max": 1600000, "rate": 0.15 },
+      { "min": 1600001, "max": 2000000, "rate": 0.20 },
+      { "min": 2000001, "max": 2400000, "rate": 0.25 },
+      { "min": 2400001, "max": null, "rate": 0.30 }
+    ],
+    "standardDeductionSalary": 75000,
+    "rebateLimit": 1200000,
+    "cessRate": 0.04
+  },
+  "small_savings_rates_q4_2026": {
+    "effectiveFrom": "2026-10-01",
+    "verifiedOn": "2026-10-17",
+    "sourceId": "S002",
+    "status": "verified",
+    "ppf": { "rate": 0.071, "annualLimit": 150000, "compounding": "annual", "lockInYears": 15 },
+    "ssy": { "rate": 0.082, "annualLimit": 150000, "compounding": "annual" },
+    "scss": { "rate": 0.082, "maxDeposit": 3000000, "compounding": "quarterly" },
+    "nsc": { "rate": 0.077, "lockInYears": 5, "compounding": "annual" }
+  },
+  "capital_gains_fy2627": {
+    "effectiveFrom": "2024-07-23",
+    "verifiedOn": "2026-10-17",
+    "sourceId": "S001",
+    "status": "verified",
+    "equity_listed": {
+      "stcg_rate": 0.20,
+      "ltcg_rate": 0.125,
+      "ltcg_exemption_annual": 125000,
+      "holding_period_months_for_ltcg": 12
+    },
+    "debt_funds": {
+      "taxation": "slab_rate",
+      "indexation_benefit": false
+    },
+    "real_estate": {
+      "ltcg_rate": 0.125,
+      "indexation_benefit": false,
+      "holding_period_months_for_ltcg": 24
+    },
+    "unlisted_shares": {
+      "ltcg_rate": 0.125,
+      "holding_period_months_for_ltcg": 24
+    }
+  }
+}

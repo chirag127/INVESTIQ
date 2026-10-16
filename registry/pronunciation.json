@@ -1,0 +1,32 @@
+{
+  "acronyms": {
+    "SIP": "Systematic Investment Plan",
+    "SWP": "Systematic Withdrawal Plan",
+    "STP": "Systematic Transfer Plan",
+    "PPF": "Public Provident Fund",
+    "EPF": "Employees' Provident Fund",
+    "VPF": "Voluntary Provident Fund",
+    "NPS": "National Pension System",
+    "XIRR": "Extended Internal Rate of Return",
+    "CAGR": "Compound Annual Growth Rate",
+    "LTCG": "Long-Term Capital Gains",
+    "STCG": "Short-Term Capital Gains",
+    "TDS": "Tax Deducted at Source",
+    "TCS": "Tax Collected at Source",
+    "HUF": "Hindu Undivided Family",
+    "REIT": "Real Estate Investment Trust",
+    "InvIT": "Infrastructure Investment Trust",
+    "P2P": "Peer-to-Peer",
+    "FD": "Fixed Deposit",
+    "RD": "Recurring Deposit",
+    "AIS": "Annual Information Statement",
+    "TIS": "Taxpayer Information Summary",
+    "GAAR": "General Anti-Avoidance Rule",
+    "PMLA": "Prevention of Money Laundering Act",
+    "FEMA": "Foreign Exchange Management Act"
+  },
+  "spokenCurrencies": {
+    "lakh": "lakh rupees",
+    "crore": "crore rupees"
+  }
+}

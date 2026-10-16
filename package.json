@@ -1,0 +1,26 @@
+{
+  "name": "investiq-india",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "privacy-scan": "node scripts/privacy-scanner.js",
+    "build-epub": "node scripts/generate-epub.js"
+  },
+  "dependencies": {
+    "@astrojs/react": "^4.2.0",
+    "astro": "^5.4.0",
+    "katex": "^0.16.21",
+    "lucide-react": "^1.16.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "vitest": "^3.0.7"
+  }
+}

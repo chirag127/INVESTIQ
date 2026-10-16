@@ -1,0 +1,47 @@
+{
+  "S001": {
+    "title": "Income-tax Act Framework and Finance Act Provisions (FY 2026-27)",
+    "publisher": "Central Board of Direct Taxes, Ministry of Finance, Government of India",
+    "url": "https://incometax.gov.in",
+    "documentDate": "2026-02-01",
+    "accessedDate": "2026-10-17",
+    "jurisdiction": "India",
+    "type": "statutory"
+  },
+  "S002": {
+    "title": "Interest Rates for Small Savings Schemes",
+    "publisher": "Department of Economic Affairs, Ministry of Finance, Government of India",
+    "url": "https://dea.gov.in",
+    "documentDate": "2026-09-30",
+    "accessedDate": "2026-10-17",
+    "jurisdiction": "India",
+    "type": "official_notification"
+  },
+  "S003": {
+    "title": "Master Direction – Non-Banking Financial Company – Peer to Peer Lending Platform (Reserve Bank) Directions",
+    "publisher": "Reserve Bank of India",
+    "url": "https://www.rbi.org.in",
+    "documentDate": "2024-08-16",
+    "accessedDate": "2026-10-17",
+    "jurisdiction": "India",
+    "type": "regulatory_direction"
+  },
+  "S004": {
+    "title": "SEBI (Mutual Funds) Regulations and Categorization Circulars",
+    "publisher": "Securities and Exchange Board of India",
+    "url": "https://www.sebi.gov.in",
+    "documentDate": "2026-01-15",
+    "accessedDate": "2026-10-17",
+    "jurisdiction": "India",
+    "type": "regulatory_regulation"
+  },
+  "S005": {
+    "title": "W3C EPUB 3.3 Recommendation & EPUB Text-to-Speech Enhancements 1.0",
+    "publisher": "World Wide Web Consortium (W3C)",
+    "url": "https://www.w3.org/TR/epub-33/",
+    "documentDate": "2023-05-25",
+    "accessedDate": "2026-10-17",
+    "jurisdiction": "International",
+    "type": "technical_standard"
+  }
+}
