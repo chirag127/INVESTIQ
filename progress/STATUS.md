@@ -1,31 +1,34 @@
 # INVESTIQ INDIA — STATUS REPORT
 
-**Last Updated:** 2026-10-17 01:45 IST  
+**Last Updated:** 2026-10-17 01:52 IST  
 **Git Remote:** `https://github.com/chirag127/INVESTIQ.git`  
 **Deploy Target / Verified Live URL:** `https://chirag127.github.io/INVESTIQ/`  
-**Current Phase:** Phase C — Multi-Page Architecture, Content Expansion & Interactive Calculators Verified
+**Current Phase:** Phase D — Compiled Master Book & Downloads Live Verification
 
 ## Core Milestone Verification
-- **GitHub Pages Deployment**: **LIVE & VERIFIED** across routes:
-  - Homepage: `https://chirag127.github.io/INVESTIQ/` (HTTP 200)
-  - Interactive Calculators: `https://chirag127.github.io/INVESTIQ/calculators/` (HTTP 200)
-  - Master Book Corpus: `https://chirag127.github.io/INVESTIQ/book/` (HTTP 200)
-- **Browser Screenshot Verification**:
-  - `investiq_homepage_1792179437263.png`: Verified landing page with hero, value props, and badges.
-  - `calculators_reactivity_updated_1792181615668.png`: Verified interactive live client-side sliders and real-time calculation for both SIP and New Tax Regime (FY 2026-27).
-- **Automated Privacy Scanner**: **PASSED** (`scripts/privacy-scanner.js`). Zero PII, phone numbers, or private financial credentials in codebase.
-- **Financial Calculation Engine Tests**: **PASSED** (Vitest 4/4 passing).
-- **EPUB 3.3 / TTS Pipeline**: Script in `scripts/generate-epub.js` generates Moon+ Reader Pro TTS-ready reflowable XHTML packages with phonetic pronunciations and natural math descriptions.
-- **Master Outline Registered**: `registry/outline.json` covers 18 Parts and 150+ planned chapters.
-
-## Metric Counters
-- **Chapters Outlined:** 150+ in `registry/outline.json`
-- **Chapters Drafted & Published:** 2 (Chapter 001: Wealth Landscape; Chapter 077: Tax Regime Breakeven Engine)
-- **Interactive Calculators Live:** 2 (SIP Compounding, New Tax Regime FY 2026-27 with Sec 87A rebate)
-- **UNVERIFIED Facts Count:** 0
-- **CI/CD Status:** Passing on GitHub Actions (`test-and-build`, `deploy`)
+- **Live Deployed Pages**:
+  - **Homepage**: `https://chirag127.github.io/INVESTIQ/` (HTTP 200)
+  - **Book Corpus Overview**: `https://chirag127.github.io/INVESTIQ/book/` (HTTP 200)
+  - **Client-Side Financial Calculators**: `https://chirag127.github.io/INVESTIQ/calculators/` (HTTP 200, tested with interactive sliders)
+  - **Downloads Page**: `https://chirag127.github.io/INVESTIQ/downloads/` (HTTP 200)
+- **Live Standalone Master Book Downloads**:
+  - **Complete Standalone HTML Edition**: `https://chirag127.github.io/INVESTIQ/downloads/InvestiQ-India-Master-Book.html` (HTTP 200, 27,675 bytes)
+  - **Plain Text Screen-Reader Edition**: `https://chirag127.github.io/INVESTIQ/downloads/InvestiQ-India-Master-Book.txt` (HTTP 200, 26,603 bytes)
+  - **Moon+ Reader Pro TTS Edition**: `https://chirag127.github.io/INVESTIQ/downloads/InvestiQ-India-Master-TTS.xhtml` (HTTP 200, 27,675 bytes)
+  - **Downloads Manifest**: `https://chirag127.github.io/INVESTIQ/downloads/manifest.json` (HTTP 200)
+- **Automated Privacy Scanner**: **PASSED** (`scripts/privacy-scanner.js`). Zero PII, private salaries, or sensitive tokens in version control or generated book outputs.
+- **Financial Math Tests**: **PASSED** (Vitest 4/4 passing).
+- **Master Outline**: 150+ planned chapters across 18 Parts in `registry/outline.json`.
+- **Active Canonical Chapters Authored**:
+  - Chapter 001: *India's Wealth Landscape: Distribution, Mobility, and the Wealth Engine*
+  - Chapter 002: *Compounding Mechanics, Inflation Drag, and Historical Asset Classes*
+  - Chapter 008: *Software Engineering Careers in India: CTC Dissection, Equity, and Career Compounding*
+  - Chapter 030: *Anatomy of Indian Mutual Funds: Regulations, TER Drag, and Direct vs Regular Math*
+  - Chapter 077: *New vs Old Tax Regime: Mathematical Decision Engine*
+  - Chapter 100: *Indian Succession Systems: Hindu Succession Act, Coparcenary, and Personal Laws*
+  - Chapter 113: *Retirement Mathematics: Indian Safe Withdrawal Rates, Inflation, and Sequence of Returns Risk*
 
 ## Next Batch Queue
-1. Author Chapter 002: *Compounding, Inflation, Real Returns, and Indian Historical Data Series*.
-2. Author Chapter 008: *Software Engineering Careers in India: Services, GCCs, Products, and CTC Dissection*.
-3. Expand calculator suite to include Debt Avalanche / Snowball and Inflation Drag tools.
+1. Author Chapter 005: *Debt Triage: Avalanche, Snowball, Recovery Rights, and Credit Repair*.
+2. Author Chapter 078: *Capital Gains Master Framework: FY 2026-27 Rates and Set-Off Rules*.
+3. Author Chapter 101: *Ancestral Property vs Self-Acquired Property: Legal Rights, Partition, and Case Law*.
