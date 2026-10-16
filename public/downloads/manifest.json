@@ -1,24 +1,24 @@
 {
   "edition": "2026.10-FY2627",
-  "buildDate": "2026-10-16T20:18:13.835Z",
-  "canonicalSectionsCount": 7,
+  "buildDate": "2026-10-16T20:25:20.283Z",
+  "canonicalSectionsCount": 14,
   "downloads": [
     {
       "name": "InvestiQ-India-Master-Book.html",
       "title": "Master Book (Self-Contained Standalone HTML / Printable)",
-      "sizeBytes": 27675,
+      "sizeBytes": 48580,
       "format": "HTML"
     },
     {
       "name": "InvestiQ-India-Master-Book.txt",
       "title": "Master Book (UTF-8 Plain Text for Screen Readers & Offline)",
-      "sizeBytes": 26603,
+      "sizeBytes": 47972,
       "format": "TXT"
     },
     {
       "name": "InvestiQ-India-Master-TTS.xhtml",
       "title": "Narration Edition (Moon+ Reader Pro TTS Compatible)",
-      "sizeBytes": 27675,
+      "sizeBytes": 48580,
       "format": "XHTML/EPUB"
     }
   ]
